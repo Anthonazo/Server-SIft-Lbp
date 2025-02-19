@@ -1,0 +1,4 @@
+    {
+        "Yield": "/home/anthony/Escritorio/Virtualenvs/env-SiftProject/src/data/classifier_Yield/cascade.xml",
+        "No entry": "/home/anthony/Escritorio/Virtualenvs/env-SiftProject/src/data/classifier_No_Entry/cascade.xml"
+    }
